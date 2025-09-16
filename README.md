@@ -1,3 +1,5 @@
+Dataset https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
+
 Laporan Analisis Regresi Linear Sederhana
 Judul: Analisis Regresi Linear Sederhana: Pengaruh Kemampuan Membaca terhadap Nilai Matematika
 ________________________________________
